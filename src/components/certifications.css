@@ -1,0 +1,3 @@
+.no-overflow-hidden {
+    overflow: visible !important; /* Usa !important si es necesario para anular las reglas anteriores */
+  }
